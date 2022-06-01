@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+# Hello
 
 I'm <b>Elmehdi AMLOU</b>, a Software Developer who wills to develop beautiful and practical applications.
 
